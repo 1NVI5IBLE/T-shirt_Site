@@ -1,0 +1,8 @@
+.sizeFilter{
+    display: flex;
+}
+
+.sizeFilter h1{
+    font-weight: 100;
+    text-decoration: none;
+}
